@@ -1,0 +1,25 @@
+# generated files
+*.pyc
+*.pid
+.idea/
+__pycache__/
+
+# database files
+db.sqlite3
+postgresql/
+
+# env directories
+env/
+venv/
+
+# docker files
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+
+# read me
+README.md
+
+# git files
+.gitignore

@@ -1,0 +1,13 @@
+# generated files
+*.pyc
+*.pid
+.idea/
+__pycache__/
+
+# database files
+db.sqlite3
+postgresql/
+
+# env directories
+env/
+venv/
